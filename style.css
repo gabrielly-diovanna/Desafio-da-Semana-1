@@ -1,0 +1,24 @@
+
+#t1 {
+    ;
+    width: 400px;
+    color: white;
+    ;
+}
+ body {;
+     background-color: rgb(58, 90, 121);}
+ #img { 
+     position: relative;
+     float:left;
+ }
+   #subt { width: 690px;
+    position: relative;
+         float: right;
+         background-color: rgb(255, 255, 255);
+       }
+         
+   #text
+          { background-color: white;
+          float: left;
+           width: 690px;}
+           
